@@ -77,7 +77,7 @@ dependencies {
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4'
 
     // add nordicsemi.android common theme
-    implementation 'no.nordicsemi.android:common:theme:1.0.23'
+    implementation 'no.nordicsemi.android.common:theme:1.0.23'
 
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
